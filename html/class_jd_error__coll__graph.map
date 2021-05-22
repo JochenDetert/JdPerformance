@@ -1,0 +1,4 @@
+<map id="JdError" name="JdError">
+<area shape="rect" id="node1" title="Intended to output errormessages and warnings and handle errors." alt="" coords="40,95,105,121"/>
+<area shape="rect" id="node2" href="$struct_jd_error_1_1_error_data.html" title="Structure with data of a buffered error." alt="" coords="5,5,140,32"/>
+</map>

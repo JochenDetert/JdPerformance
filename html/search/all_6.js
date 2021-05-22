@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['peekerrordata_10',['peekErrorData',['../class_jd_error.html#addcbe5cfab167a6394df84a42f9bd3bd',1,'JdError']]],
+  ['performancemeasurementfinish_11',['performanceMeasurementFinish',['../class_jd_performance.html#ab119ac85ad6e8166465dd76508f20f91',1,'JdPerformance']]],
+  ['performancemeasurementreport_12',['performanceMeasurementReport',['../class_jd_performance.html#a776012430f9285e957fae636a8dcdb2b',1,'JdPerformance']]],
+  ['performancemeasurementreset_13',['performanceMeasurementReset',['../class_jd_performance.html#a1344bf0c0e46a5ca52bc7bb30aa12b15',1,'JdPerformance']]],
+  ['performancemeasurementstart_14',['performanceMeasurementStart',['../class_jd_performance.html#abfec53a7269233b43e9d5d93950f88aa',1,'JdPerformance::performanceMeasurementStart()'],['../class_jd_performance.html#a0e8fb3dfb3b460ff10b73f693c59fb7b',1,'JdPerformance::performanceMeasurementStart(uint16_t numberOfMeasurements)'],['../class_jd_performance.html#af2fc2ae1d11427446b0b4e8233578a90',1,'JdPerformance::performanceMeasurementStart(uint16_t numberOfMeasurements, uint16_t ignoreFirstNumber)'],['../class_jd_performance.html#ae656622535f251223143b09b1fd9e2ff',1,'JdPerformance::performanceMeasurementStart(uint16_t numberOfMeasurements, uint16_t ignoreFirstNumber, bool autoReport)'],['../class_jd_performance.html#a3beb913424119b73361a2fda86737336',1,'JdPerformance::performanceMeasurementStart(uint16_t numberOfMeasurements, uint16_t ignoreFirstNumber, bool autoReport, bool exitAfter)'],['../class_jd_performance.html#a093355b24015d4eedf1ea1dfe7342d14',1,'JdPerformance::performanceMeasurementStart(uint16_t numberOfMeasurements, uint16_t ignoreFirstNumber, bool autoReport, bool exitAfter, bool loop)']]],
+  ['performancemeasurementstop_15',['performanceMeasurementStop',['../class_jd_performance.html#ab431d08a9adac17ddb2379368ec5f04e',1,'JdPerformance']]],
+  ['performancetest_16',['performanceTest',['../class_jd_performance.html#a1a1b445041125c7e71802e89d721bd94',1,'JdPerformance']]]
+];
